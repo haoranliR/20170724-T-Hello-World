@@ -1,3 +1,7 @@
-# 20170724-T-Hello-World
+# 20170724-T-Hello-Worl
 My first GitHub repository for study
-Edit the file first time by HRL. (4:42 pm)
+
+Hello it is the first edition under new branch.
+edit to delect time.
+
+Edit the file first time by HRL. 
